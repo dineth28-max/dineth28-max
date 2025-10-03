@@ -21,8 +21,8 @@
 <p align="left">
 <a href="[https://x.com/Dineth132?t=nzX9K6a5JZskKLji0Y4eaA&s=09](https://x.com/Dineth132?t=nzX9K6a5JZskKLji0Y4eaA&s=09)" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/twitter.svg" alt="subhadeepzilong" height="30" width="40" /></a>
 <a href="linkedin.com/in/dineth-sandakelum-58ba9b31a" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="subhadeep-chakraborty-b341a8191" height="30" width="40" /></a>
-<a href="[https://fb.com/subhadeep.chakraborty.555](https://web.facebook.com/?_rdc=1&_rdr#)" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/facebook.svg" alt="subhadeep.chakraborty.555" height="30" width="40" /></a>
-<a href="[https://instagram.com/subhadeepzilong](https://www.instagram.com/dineth_sandakalum/?hl=en)" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" alt="subhadeepzilong" height="30" width="40" /></a>
+<a href="https://web.facebook.com/profile.php?id=100077264929226" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/facebook.svg" alt="subhadeep.chakraborty.555" height="30" width="40" /></a>
+<a href="https://www.instagram.com/dineth sandakalum/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" alt="subhadeepzilong" height="30" width="40" /></a>
 
 
 </p>
