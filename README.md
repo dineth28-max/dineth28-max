@@ -19,8 +19,8 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="left">
-<a href="[https://x.com/Dineth132?t=nzX9K6a5JZskKLji0Y4eaA&s=09](https://x.com/Dineth132?t=nzX9K6a5JZskKLji0Y4eaA&s=09)" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/twitter.svg" alt="subhadeepzilong" height="30" width="40" /></a>
-<a href="linkedin.com/in/dineth-sandakelum-58ba9b31a" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="subhadeep-chakraborty-b341a8191" height="30" width="40" /></a>
+<a href="https://x.com/Dineth132" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/twitter.svg" alt="subhadeepzilong" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dineth-sandakelum-58ba9b31a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/linked-in-alt.svg" alt="subhadeep-chakraborty-b341a8191" height="30" width="40" /></a>
 <a href="https://web.facebook.com/profile.php?id=100077264929226" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/facebook.svg" alt="subhadeep.chakraborty.555" height="30" width="40" /></a>
 <a href="https://www.instagram.com/dineth sandakalum/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/Social/instagram.svg" alt="subhadeepzilong" height="30" width="40" /></a>
 
@@ -41,8 +41,8 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AWS-Dark.svg?short path=2aed204.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg?short path=3d508c2.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Azure-Dark.svg?short path=692a12e.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://www.docker.com/"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg?short path=3d508c2.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://www.azure.microsoft.com/en-us/"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Azure-Dark.svg?short path=692a12e.svg" alt="css3" width="40" height="40"/> </a> 
   </p>
 
 ##
@@ -66,7 +66,7 @@
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dineth28-max&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="SubhadeepZilong" height="192px"/>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> Cloud and AI together turn data into smarter decisions..
   </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
